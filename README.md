@@ -15,7 +15,7 @@ This is a machine learning project that can be used to predict the reselling pri
 > Open the same in your browser, the setup is now complete.
 
 > The broswer opens to this.
-> ![image](https://user-images.githubusercontent.com/48138906/87267010-2e80c500-c4e4-11ea-88e8-3d6af443fc2f.png) \
+> ![Screenshot from 2020-07-17 10-19-25](https://user-images.githubusercontent.com/48138906/87749736-217f1100-c817-11ea-9e0b-d371e74a5bcf.png)\
 
 
 > You can now predict the price of your car before reselling it.
